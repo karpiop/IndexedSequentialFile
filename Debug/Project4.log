@@ -1,0 +1,11 @@
+﻿  main.c
+d:\studia\sbd\project4\main.c(189): warning C4133: 'function': incompatible types - from 'MainFile *' to 'IndexFile *'
+d:\studia\sbd\project4\main.c(525): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+d:\studia\sbd\project4\main.c(590): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\sbd\project4\main.c(612): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'char *'
+  d:\studia\sbd\project4\main.c(612): note: consider using '%hhd' in the format string
+d:\studia\sbd\project4\main.c(612): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'char *'
+  d:\studia\sbd\project4\main.c(612): note: consider using '%hhd' in the format string
+d:\studia\sbd\project4\main.c(446): warning C4715: 'getRecord': not all control paths return a value
+  Project4.vcxproj -> D:\Studia\SBD\Project4\Debug\Project4.exe
+  Project4.vcxproj -> D:\Studia\SBD\Project4\Debug\Project4.pdb (Partial PDB)

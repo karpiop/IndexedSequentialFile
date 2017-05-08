@@ -1,0 +1,1380 @@
+4255
+wirtes:	2
+reads:	0
+
+26535
+wirtes:	3
+reads:	0
+
+19314
+wirtes:	4
+reads:	0
+
+13017
+wirtes:	5
+reads:	0
+
+13685
+wirtes:	6
+reads:	0
+
+307
+wirtes:	9
+reads:	0
+
+31132
+wirtes:	10
+reads:	0
+
+13909
+wirtes:	11
+reads:	0
+
+673
+wirtes:	12
+reads:	0
+
+19944
+wirtes:	13
+reads:	0
+
+15768
+wirtes:	14
+reads:	0
+
+21204
+wirtes:	15
+reads:	0
+
+27338
+wirtes:	16
+reads:	0
+
+22195
+wirtes:	17
+reads:	0
+
+28864
+wirtes:	18
+reads:	0
+
+32133
+wirtes:	19
+reads:	0
+
+26014
+wirtes:	20
+reads:	0
+
+29093
+wirtes:	21
+reads:	0
+
+17075
+wirtes:	22
+reads:	0
+
+21500
+wirtes:	23
+reads:	0
+
+30285
+wirtes:	24
+reads:	0
+
+31860
+wirtes:	25
+reads:	0
+
+18386
+wirtes:	26
+reads:	0
+
+7855
+wirtes:	27
+reads:	0
+
+16908
+wirtes:	28
+reads:	0
+
+9978
+wirtes:	29
+reads:	0
+
+6085
+wirtes:	30
+reads:	0
+
+25468
+wirtes:	31
+reads:	0
+
+13972
+wirtes:	32
+reads:	0
+
+19891
+wirtes:	33
+reads:	0
+
+31734
+wirtes:	34
+reads:	0
+
+2082
+wirtes:	35
+reads:	0
+
+16544
+wirtes:	36
+reads:	0
+
+25667
+wirtes:	37
+reads:	0
+
+11796
+wirtes:	38
+reads:	0
+
+1219
+wirtes:	39
+reads:	0
+
+4723
+wirtes:	40
+reads:	0
+
+28654
+wirtes:	41
+reads:	0
+
+9874
+wirtes:	42
+reads:	0
+
+9833
+wirtes:	43
+reads:	0
+
+31311
+wirtes:	44
+reads:	0
+
+4639
+wirtes:	45
+reads:	0
+
+31526
+wirtes:	46
+reads:	0
+
+24957
+wirtes:	47
+reads:	0
+
+18687
+wirtes:	48
+reads:	0
+
+8930
+wirtes:	49
+reads:	0
+
+19786
+wirtes:	50
+reads:	0
+
+13393
+wirtes:	51
+reads:	0
+
+18510
+wirtes:	52
+reads:	0
+
+23402
+wirtes:	53
+reads:	0
+
+18622
+wirtes:	54
+reads:	0
+
+6552
+wirtes:	55
+reads:	0
+
+16782
+wirtes:	56
+reads:	0
+
+4235
+wirtes:	57
+reads:	0
+
+12804
+wirtes:	58
+reads:	0
+
+2793
+wirtes:	59
+reads:	0
+
+5138
+wirtes:	60
+reads:	0
+
+32064
+wirtes:	61
+reads:	0
+
+1251
+wirtes:	62
+reads:	0
+
+4928
+wirtes:	63
+reads:	0
+
+23476
+wirtes:	64
+reads:	0
+
+7463
+wirtes:	65
+reads:	0
+
+8933
+wirtes:	66
+reads:	0
+
+29052
+wirtes:	67
+reads:	0
+
+10064
+wirtes:	69
+reads:	0
+
+5888
+wirtes:	71
+reads:	0
+
+4569
+wirtes:	73
+reads:	0
+
+19170
+wirtes:	75
+reads:	0
+
+16198
+wirtes:	77
+reads:	0
+
+14130
+wirtes:	79
+reads:	0
+
+19026
+wirtes:	81
+reads:	0
+
+28056
+wirtes:	83
+reads:	0
+
+31740
+wirtes:	85
+reads:	0
+
+31302
+wirtes:	87
+reads:	0
+
+5669
+wirtes:	89
+reads:	0
+
+9003
+wirtes:	91
+reads:	0
+
+11354
+wirtes:	93
+reads:	0
+
+10089
+wirtes:	95
+reads:	0
+
+32495
+wirtes:	97
+reads:	0
+
+4874
+wirtes:	99
+reads:	0
+
+3149
+wirtes:	101
+reads:	0
+
+31470
+wirtes:	103
+reads:	0
+
+19596
+wirtes:	105
+reads:	0
+
+13576
+wirtes:	107
+reads:	0
+
+19269
+wirtes:	109
+reads:	0
+
+24779
+wirtes:	111
+reads:	0
+
+5025
+wirtes:	113
+reads:	0
+
+21470
+wirtes:	115
+reads:	0
+
+8886
+wirtes:	117
+reads:	0
+
+16151
+wirtes:	119
+reads:	0
+
+21524
+wirtes:	121
+reads:	0
+
+8103
+wirtes:	123
+reads:	0
+
+31898
+wirtes:	125
+reads:	0
+
+20626
+wirtes:	127
+reads:	0
+
+10127
+wirtes:	129
+reads:	0
+
+20579
+wirtes:	131
+reads:	0
+
+10734
+wirtes:	133
+reads:	0
+
+3869
+wirtes:	135
+reads:	0
+
+32768
+wirtes:	137
+reads:	0
+
+22644
+wirtes:	139
+reads:	0
+
+10544
+wirtes:	141
+reads:	0
+
+11837
+wirtes:	143
+reads:	0
+
+30236
+wirtes:	145
+reads:	0
+
+10020
+wirtes:	147
+reads:	0
+
+31976
+wirtes:	149
+reads:	0
+
+9629
+wirtes:	151
+reads:	0
+
+10199
+wirtes:	153
+reads:	0
+
+31517
+wirtes:	155
+reads:	0
+
+4636
+wirtes:	157
+reads:	0
+
+19337
+wirtes:	159
+reads:	0
+
+9965
+wirtes:	161
+reads:	0
+
+17647
+wirtes:	163
+reads:	0
+
+14042
+wirtes:	165
+reads:	0
+
+32628
+wirtes:	167
+reads:	0
+
+30557
+wirtes:	169
+reads:	0
+
+6541
+wirtes:	171
+reads:	0
+
+8370
+wirtes:	173
+reads:	0
+
+25714
+wirtes:	175
+reads:	0
+
+7656
+wirtes:	177
+reads:	0
+
+13520
+wirtes:	179
+reads:	0
+
+825
+wirtes:	181
+reads:	0
+
+11198
+wirtes:	183
+reads:	0
+
+16023
+wirtes:	185
+reads:	0
+
+3059
+wirtes:	187
+reads:	0
+
+13959
+wirtes:	189
+reads:	0
+
+28470
+wirtes:	191
+reads:	0
+
+19250
+wirtes:	193
+reads:	0
+
+28693
+wirtes:	204
+reads:	0
+
+28089
+wirtes:	205
+reads:	1
+
+7130
+wirtes:	206
+reads:	1
+
+16842
+wirtes:	207
+reads:	1
+
+16571
+wirtes:	208
+reads:	1
+
+32113
+wirtes:	209
+reads:	1
+
+27729
+wirtes:	210
+reads:	1
+
+31536
+wirtes:	211
+reads:	1
+
+11852
+wirtes:	212
+reads:	1
+
+12881
+wirtes:	213
+reads:	1
+
+29540
+wirtes:	214
+reads:	1
+
+2427
+wirtes:	215
+reads:	1
+
+3219
+wirtes:	216
+reads:	1
+
+14212
+wirtes:	217
+reads:	1
+
+13953
+wirtes:	218
+reads:	1
+
+9862
+wirtes:	219
+reads:	1
+
+13632
+wirtes:	220
+reads:	1
+
+3381
+wirtes:	221
+reads:	1
+
+22585
+wirtes:	222
+reads:	1
+
+12911
+wirtes:	223
+reads:	1
+
+31334
+wirtes:	224
+reads:	1
+
+3861
+wirtes:	225
+reads:	1
+
+21186
+wirtes:	226
+reads:	1
+
+16922
+wirtes:	227
+reads:	1
+
+10494
+wirtes:	228
+reads:	1
+
+2777
+wirtes:	229
+reads:	1
+
+17014
+wirtes:	230
+reads:	1
+
+15788
+wirtes:	231
+reads:	1
+
+7011
+wirtes:	232
+reads:	1
+
+26298
+wirtes:	233
+reads:	1
+
+16466
+wirtes:	234
+reads:	1
+
+3856
+wirtes:	235
+reads:	1
+
+23509
+wirtes:	236
+reads:	1
+
+22516
+wirtes:	238
+reads:	1
+
+19576
+wirtes:	240
+reads:	1
+
+24693
+wirtes:	242
+reads:	1
+
+22262
+wirtes:	244
+reads:	1
+
+10567
+wirtes:	246
+reads:	1
+
+18605
+wirtes:	248
+reads:	1
+
+27342
+wirtes:	250
+reads:	1
+
+7760
+wirtes:	252
+reads:	1
+
+4473
+wirtes:	254
+reads:	1
+
+732
+wirtes:	256
+reads:	1
+
+21585
+wirtes:	258
+reads:	1
+
+15053
+wirtes:	260
+reads:	1
+
+6610
+wirtes:	262
+reads:	1
+
+20369
+wirtes:	264
+reads:	1
+
+7929
+wirtes:	266
+reads:	1
+
+3901
+wirtes:	268
+reads:	1
+
+5278
+wirtes:	270
+reads:	1
+
+13439
+wirtes:	272
+reads:	1
+
+9988
+wirtes:	274
+reads:	1
+
+19155
+wirtes:	276
+reads:	1
+
+9135
+wirtes:	278
+reads:	1
+
+8954
+wirtes:	280
+reads:	1
+
+12661
+wirtes:	282
+reads:	1
+
+27561
+wirtes:	284
+reads:	1
+
+20184
+wirtes:	286
+reads:	1
+
+17022
+wirtes:	288
+reads:	1
+
+2707
+wirtes:	290
+reads:	1
+
+20791
+wirtes:	292
+reads:	1
+
+10867
+wirtes:	294
+reads:	1
+
+19238
+wirtes:	296
+reads:	1
+
+13416
+wirtes:	298
+reads:	1
+
+24288
+wirtes:	300
+reads:	1
+
+3548
+wirtes:	302
+reads:	1
+
+28726
+wirtes:	304
+reads:	1
+
+9539
+wirtes:	306
+reads:	1
+
+11878
+wirtes:	308
+reads:	1
+
+23028
+wirtes:	310
+reads:	1
+
+23186
+wirtes:	312
+reads:	1
+
+5687
+wirtes:	314
+reads:	1
+
+21104
+wirtes:	316
+reads:	1
+
+20383
+wirtes:	318
+reads:	1
+
+13124
+wirtes:	320
+reads:	1
+
+24986
+wirtes:	322
+reads:	1
+
+10507
+wirtes:	324
+reads:	1
+
+30278
+wirtes:	326
+reads:	1
+
+15865
+wirtes:	328
+reads:	1
+
+29062
+wirtes:	330
+reads:	1
+
+15910
+wirtes:	332
+reads:	1
+
+4694
+wirtes:	334
+reads:	1
+
+901
+wirtes:	336
+reads:	1
+
+15963
+wirtes:	338
+reads:	1
+
+15893
+wirtes:	340
+reads:	1
+
+11198
+wirtes:	342
+reads:	1
+
+3163
+wirtes:	344
+reads:	1
+
+23867
+wirtes:	346
+reads:	1
+
+30735
+wirtes:	348
+reads:	1
+
+9333
+wirtes:	350
+reads:	1
+
+11030
+wirtes:	352
+reads:	1
+
+7821
+wirtes:	354
+reads:	1
+
+28848
+wirtes:	356
+reads:	1
+
+24306
+wirtes:	358
+reads:	1
+
+22259
+wirtes:	360
+reads:	1
+
+15483
+wirtes:	362
+reads:	1
+
+1144
+wirtes:	364
+reads:	1
+
+29875
+wirtes:	366
+reads:	2
+
+5716
+wirtes:	369
+reads:	4
+
+6516
+wirtes:	371
+reads:	4
+
+6729
+wirtes:	374
+reads:	6
+
+31927
+wirtes:	376
+reads:	6
+
+31038
+wirtes:	379
+reads:	8
+
+3754
+wirtes:	382
+reads:	10
+
+26093
+wirtes:	385
+reads:	12
+
+25091
+wirtes:	388
+reads:	16
+
+9180
+wirtes:	391
+reads:	18
+
+19092
+wirtes:	394
+reads:	20
+
+14990
+wirtes:	396
+reads:	22
+
+18976
+wirtes:	399
+reads:	26
+
+26874
+wirtes:	401
+reads:	28
+
+16238
+wirtes:	404
+reads:	30
+
+27964
+wirtes:	406
+reads:	30
+
+2971
+wirtes:	408
+reads:	30
+
+29835
+wirtes:	410
+reads:	30
+
+8628
+wirtes:	412
+reads:	30
+
+18283
+wirtes:	415
+reads:	32
+
+13445
+wirtes:	418
+reads:	34
+
+1571
+wirtes:	420
+reads:	34
+
+30379
+wirtes:	423
+reads:	36
+
+2418
+wirtes:	425
+reads:	36
+
+8433
+wirtes:	427
+reads:	36
+
+15230
+wirtes:	430
+reads:	38
+
+13017
+wirtes:	432
+reads:	40
+
+32013
+wirtes:	434
+reads:	40
+
+8568
+wirtes:	436
+reads:	40
+
+27383
+wirtes:	439
+reads:	42
+
+26759
+wirtes:	441
+reads:	42
+
+6108
+wirtes:	443
+reads:	42
+
+12728
+wirtes:	446
+reads:	44
+
+3602
+wirtes:	449
+reads:	48
+
+1606
+wirtes:	451
+reads:	48
+
+11745
+wirtes:	454
+reads:	50
+
+16080
+wirtes:	457
+reads:	54
+
+15347
+wirtes:	459
+reads:	58
+
+9575
+wirtes:	462
+reads:	62
+
+13318
+wirtes:	465
+reads:	64
+
+32230
+wirtes:	467
+reads:	64
+
+13284
+wirtes:	470
+reads:	68
+
+26753
+wirtes:	472
+reads:	68
+
+4757
+wirtes:	474
+reads:	68
+
+21153
+wirtes:	477
+reads:	74
+
+30675
+wirtes:	479
+reads:	78
+
+27120
+wirtes:	481
+reads:	80
+
+1982
+wirtes:	483
+reads:	80
+
+17839
+wirtes:	486
+reads:	84
+
+30417
+wirtes:	488
+reads:	86
+
+14928
+wirtes:	490
+reads:	86
+
+6677
+wirtes:	493
+reads:	90
+
+2881
+wirtes:	495
+reads:	90
+
+18324
+wirtes:	497
+reads:	94
+
+28422
+wirtes:	499
+reads:	96
+
+6929
+wirtes:	501
+reads:	98
+
+6538
+wirtes:	503
+reads:	98
+
+29430
+wirtes:	506
+reads:	100
+
+16567
+wirtes:	508
+reads:	100
+
+14734
+wirtes:	510
+reads:	100
+
+20292
+wirtes:	513
+reads:	106
+
+20084
+wirtes:	516
+reads:	112
+
+14798
+wirtes:	518
+reads:	112
+
+9292
+wirtes:	520
+reads:	116
+
+10795
+wirtes:	523
+reads:	118
+
+26288
+wirtes:	526
+reads:	121
+
+29947
+wirtes:	529
+reads:	125
+
+15469
+wirtes:	532
+reads:	131
+
+3455
+wirtes:	534
+reads:	133
+
+31216
+wirtes:	537
+reads:	140
+
+27567
+wirtes:	540
+reads:	145
+
+22523
+wirtes:	543
+reads:	147
+
+6278
+wirtes:	546
+reads:	149
+
+669
+wirtes:	548
+reads:	149
+
+21665
+wirtes:	551
+reads:	151
+
+5216
+wirtes:	553
+reads:	153
+
+3336
+wirtes:	555
+reads:	153
+
+20932
+wirtes:	558
+reads:	163
+
+4684
+wirtes:	560
+reads:	165
+
+14572
+wirtes:	562
+reads:	167
+
+17874
+wirtes:	565
+reads:	170
+
+14744
+wirtes:	568
+reads:	172
+
+12654
+wirtes:	571
+reads:	174
+
+10579
+wirtes:	574
+reads:	178
+
+15667
+wirtes:	577
+reads:	186
+
+18414
+wirtes:	580
+reads:	193
+
+30602
+wirtes:	583
+reads:	198
+
+26668
+wirtes:	585
+reads:	200
+
+9090
+wirtes:	588
+reads:	202
+
+4287
+wirtes:	590
+reads:	204
+
+359
+wirtes:	592
+reads:	204
+
+10611
+wirtes:	594
+reads:	206
+
+1430
+wirtes:	596
+reads:	208
+
+2218
+wirtes:	598
+reads:	210
+
+29071
+wirtes:	601
+reads:	215
+
+29960
+wirtes:	603
+reads:	219
+
+844
+wirtes:	605
+reads:	221
+
+28527
+wirtes:	608
+reads:	225
+
+11986
+wirtes:	611
+reads:	229
+
+22830
+wirtes:	613
+reads:	231
+
+5637
+wirtes:	616
+reads:	233
+
+19061
+wirtes:	619
+reads:	241
+
+12992
+wirtes:	621
+reads:	243
+
+11533
+wirtes:	624
+reads:	249
+
+26405
+wirtes:	626
+reads:	249
+
+28485
+wirtes:	629
+reads:	253
+
+26674
+wirtes:	631
+reads:	255
+
+25392
+wirtes:	634
+reads:	258
+
+13973
+wirtes:	636
+reads:	258
+
+7693
+wirtes:	638
+reads:	260
+
+6594
+wirtes:	640
+reads:	262
+
+27655
+wirtes:	642
+reads:	267
+
+20802
+wirtes:	645
+reads:	284
+
+11295
+wirtes:	648
+reads:	290
+
+28750
+wirtes:	651
+reads:	294
+
+10342
+wirtes:	654
+reads:	296
+
+6044
+wirtes:	656
+reads:	296
+
+15983
+wirtes:	659
+reads:	300
+
+377
+wirtes:	661
+reads:	300
+
+27652
+wirtes:	663
+reads:	305
+
+5144
+wirtes:	665
+reads:	305
+
